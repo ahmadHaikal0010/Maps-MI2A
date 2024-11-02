@@ -1,8 +1,7 @@
 package com.haikal.mapsmi2a
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-
+import androidx.appcompat.app.AppCompatActivity
 import com.google.android.gms.maps.CameraUpdateFactory
 import com.google.android.gms.maps.GoogleMap
 import com.google.android.gms.maps.OnMapReadyCallback
@@ -38,11 +37,32 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
      * installed Google Play services and returned to the app.
      */
     override fun onMapReady(googleMap: GoogleMap) {
-        mMap = googleMap
+//        mMap = googleMap
+//
+//        // Add a marker in Sydney and move the camera
+//        val sydney = LatLng(-0.9345836, 100.3912699)
+//        mMap.addMarker(MarkerOptions().position(sydney).title("Marker in Padang"))
+//        mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney))
 
-        // Add a marker in Sydney and move the camera
-        val sydney = LatLng(-0.9345836, 100.3912699)
-        mMap.addMarker(MarkerOptions().position(sydney).title("Marker in Padang"))
-        mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney))
+
+        // Set the map coordinates to Kyoto Japan.
+        val kyoto = LatLng(35.00116, 135.7681)
+
+        // Set the map type to Hybrid.
+        googleMap.mapType = GoogleMap.MAP_TYPE_HYBRID
+
+        // Add a marker on the map coordinates.
+        googleMap.addMarker(
+            MarkerOptions()
+                .position(kyoto)
+                .title("Kyoto")
+        )
+
+        // Move the camera to the map coordinates and zoom in closer.
+        googleMap.moveCamera(CameraUpdateFactory.newLatLng(kyoto))
+        googleMap.moveCamera(CameraUpdateFactory.zoomTo(15f))
+
+        // Display traffic.
+        googleMap.isTrafficEnabled = true
     }
 }
