@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Maps MI2A</string>
     <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_detail_wisata_maps">DetailWisataMapsActivity</string>
+    <string name="title_activity_maps_wisata">MapsWisataActivity</string>
+    <string name="API_KEY_MAP">AIzaSyBn8zOBx9NCC9eeneP6EslI4k0gAxy7lHc</string>
 </resources>

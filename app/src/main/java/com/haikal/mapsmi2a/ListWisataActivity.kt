@@ -22,7 +22,7 @@ class ListWisataActivity : AppCompatActivity() {
                 "Bali",
                 "Bali",
                 R.drawable.wisata1,
-                "Bali",
+                "Pantai Kuta adalah sebuah tempat pariwisata yang terletak di kecamatan Kuta sebelah selatan Kota Denpasar, Bali, Indonesia. Daerah ini merupakan sebuah tujuan wisata turis mancanegara dan telah menjadi objek wisata andalan Pulau Bali sejak awal tahun 1970-an.[butuh rujukan] Pantai Kuta sering pula disebut sebagai pantai matahari terbenam sebagai lawan dari pantai Sanur.[butuh rujukan] Selain itu, Lapangan Udara I Gusti Ngurah Rai terletak tidak jauh dari Kuta.Pantai Kuta adalah sebuah tempat pariwisata yang terletak di kecamatan Kuta sebelah selatan Kota Denpasar, Bali, Indonesia. Daerah ini merupakan sebuah tujuan wisata turis mancanegara dan telah menjadi objek wisata andalan Pulau Bali sejak awal tahun 1970-an.[butuh rujukan] Pantai Kuta sering pula disebut sebagai pantai matahari terbenam sebagai lawan dari pantai Sanur.[butuh rujukan] Selain itu, Lapangan Udara I Gusti Ngurah Rai terletak tidak jauh dari Kuta.Pantai Kuta adalah sebuah tempat pariwisata yang terletak di kecamatan Kuta sebelah selatan Kota Denpasar, Bali, Indonesia. Daerah ini merupakan sebuah tujuan wisata turis mancanegara dan telah menjadi objek wisata andalan Pulau Bali sejak awal tahun 1970-an.[butuh rujukan] Pantai Kuta sering pula disebut sebagai pantai matahari terbenam sebagai lawan dari pantai Sanur.[butuh rujukan] Selain itu, Lapangan Udara I Gusti Ngurah Rai terletak tidak jauh dari Kuta.",
                 -8.4535604,
                 114.4120822
             ),
@@ -30,15 +30,15 @@ class ListWisataActivity : AppCompatActivity() {
                 "Pantai Lombok",
                 "Lombok",
                 R.drawable.wisata2,
-                "Lombok",
-                -8.5822965,
-                115.9433307
+                "Pantai Kuta adalah sebuah tempat pariwisata yang terletak di kecamatan Kuta sebelah selatan Kota Denpasar, Bali, Indonesia. Daerah ini merupakan sebuah tujuan wisata turis mancanegara dan telah menjadi objek wisata andalan Pulau Bali sejak awal tahun 1970-an.[butuh rujukan] Pantai Kuta sering pula disebut sebagai pantai matahari terbenam sebagai lawan dari pantai Sanur.[butuh rujukan] Selain itu, Lapangan Udara I Gusti Ngurah Rai terletak tidak jauh dari Kuta.Pantai Kuta adalah sebuah tempat pariwisata yang terletak di kecamatan Kuta sebelah selatan Kota Denpasar, Bali, Indonesia. Daerah ini merupakan sebuah tujuan wisata turis mancanegara dan telah menjadi objek wisata andalan Pulau Bali sejak awal tahun 1970-an.[butuh rujukan] Pantai Kuta sering pula disebut sebagai pantai matahari terbenam sebagai lawan dari pantai Sanur.[butuh rujukan] Selain itu, Lapangan Udara I Gusti Ngurah Rai terletak tidak jauh dari Kuta.Pantai Kuta adalah sebuah tempat pariwisata yang terletak di kecamatan Kuta sebelah selatan Kota Denpasar, Bali, Indonesia. Daerah ini merupakan sebuah tujuan wisata turis mancanegara dan telah menjadi objek wisata andalan Pulau Bali sejak awal tahun 1970-an.[butuh rujukan] Pantai Kuta sering pula disebut sebagai pantai matahari terbenam sebagai lawan dari pantai Sanur.[butuh rujukan] Selain itu, Lapangan Udara I Gusti Ngurah Rai terletak tidak jauh dari Kuta.",
+                -8.8939727,
+                116.2811431
             ),
             ModelWisata(
                 "Pantai Balekambang",
                 "Jawa Timur",
                 R.drawable.wisata3,
-                "Jawa Timur",
+                "Pantai Kuta adalah sebuah tempat pariwisata yang terletak di kecamatan Kuta sebelah selatan Kota Denpasar, Bali, Indonesia. Daerah ini merupakan sebuah tujuan wisata turis mancanegara dan telah menjadi objek wisata andalan Pulau Bali sejak awal tahun 1970-an.[butuh rujukan] Pantai Kuta sering pula disebut sebagai pantai matahari terbenam sebagai lawan dari pantai Sanur.[butuh rujukan] Selain itu, Lapangan Udara I Gusti Ngurah Rai terletak tidak jauh dari Kuta.Pantai Kuta adalah sebuah tempat pariwisata yang terletak di kecamatan Kuta sebelah selatan Kota Denpasar, Bali, Indonesia. Daerah ini merupakan sebuah tujuan wisata turis mancanegara dan telah menjadi objek wisata andalan Pulau Bali sejak awal tahun 1970-an.[butuh rujukan] Pantai Kuta sering pula disebut sebagai pantai matahari terbenam sebagai lawan dari pantai Sanur.[butuh rujukan] Selain itu, Lapangan Udara I Gusti Ngurah Rai terletak tidak jauh dari Kuta.Pantai Kuta adalah sebuah tempat pariwisata yang terletak di kecamatan Kuta sebelah selatan Kota Denpasar, Bali, Indonesia. Daerah ini merupakan sebuah tujuan wisata turis mancanegara dan telah menjadi objek wisata andalan Pulau Bali sejak awal tahun 1970-an.[butuh rujukan] Pantai Kuta sering pula disebut sebagai pantai matahari terbenam sebagai lawan dari pantai Sanur.[butuh rujukan] Selain itu, Lapangan Udara I Gusti Ngurah Rai terletak tidak jauh dari Kuta.",
                 -8.4035603,
                 112.5342213
             ),
@@ -46,7 +46,7 @@ class ListWisataActivity : AppCompatActivity() {
                 "Air Terjun Pemuteran",
                 "Bali",
                 R.drawable.wisata4,
-                "Bali",
+                "Pantai Kuta adalah sebuah tempat pariwisata yang terletak di kecamatan Kuta sebelah selatan Kota Denpasar, Bali, Indonesia. Daerah ini merupakan sebuah tujuan wisata turis mancanegara dan telah menjadi objek wisata andalan Pulau Bali sejak awal tahun 1970-an.[butuh rujukan] Pantai Kuta sering pula disebut sebagai pantai matahari terbenam sebagai lawan dari pantai Sanur.[butuh rujukan] Selain itu, Lapangan Udara I Gusti Ngurah Rai terletak tidak jauh dari Kuta.Pantai Kuta adalah sebuah tempat pariwisata yang terletak di kecamatan Kuta sebelah selatan Kota Denpasar, Bali, Indonesia. Daerah ini merupakan sebuah tujuan wisata turis mancanegara dan telah menjadi objek wisata andalan Pulau Bali sejak awal tahun 1970-an.[butuh rujukan] Pantai Kuta sering pula disebut sebagai pantai matahari terbenam sebagai lawan dari pantai Sanur.[butuh rujukan] Selain itu, Lapangan Udara I Gusti Ngurah Rai terletak tidak jauh dari Kuta.Pantai Kuta adalah sebuah tempat pariwisata yang terletak di kecamatan Kuta sebelah selatan Kota Denpasar, Bali, Indonesia. Daerah ini merupakan sebuah tujuan wisata turis mancanegara dan telah menjadi objek wisata andalan Pulau Bali sejak awal tahun 1970-an.[butuh rujukan] Pantai Kuta sering pula disebut sebagai pantai matahari terbenam sebagai lawan dari pantai Sanur.[butuh rujukan] Selain itu, Lapangan Udara I Gusti Ngurah Rai terletak tidak jauh dari Kuta.",
                 -8.1704875,
                 114.6078781
             )
